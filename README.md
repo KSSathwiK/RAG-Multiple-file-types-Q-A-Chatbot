@@ -1,4 +1,4 @@
-# Simple Chatbot with Hugging Face API
+# Chatbot with Hugging Face API which accepts different types of files.
 
 This project implements a chatbot using Streamlit and the Hugging Face API. The chatbot allows users to send messages and receive responses.IT accepts PDF, DOCX, TXT, Text, Link file types
 
